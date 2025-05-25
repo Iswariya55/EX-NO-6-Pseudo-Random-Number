@@ -6,7 +6,7 @@ Implementation of Pseudorandom Number Generation Using Standard library
 # ALGORITHM:
 Step 1: Get the number of random numbers to generate from the user.
 
-Step 2: Read the minimum and maximum values for the random number range.
+Step 2: Read the minimum and maximum values for the random number range. 
 
 Step 3: Initialize the random seed using the current time.
 
