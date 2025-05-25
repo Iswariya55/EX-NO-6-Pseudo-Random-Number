@@ -53,7 +53,8 @@ int main() {
 
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/9a874de6-db39-43f0-80c2-e9fe9d6023ce)
+![image](https://github.com/user-attachments/assets/2c53189e-86bd-42c8-adca-df9f31092fd2)
+
 
 
 # RESULT:
